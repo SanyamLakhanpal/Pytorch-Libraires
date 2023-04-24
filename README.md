@@ -13,4 +13,10 @@ New good pytorch libraries
   - Lang. Detection: 
     - https://github.com/Mimino666/langdetect
     - https://github.com/zafercavdar/fasttext-langdetect
+- Torch Ness: (Pytorch Tools, layers and encoder): Url: https://github.com/piteren/torchness
+- Yonlu: Nice Expmples pytorch NLP: https://github.com/MinSong2/yonlu/tree/main
+- Loop GPT: https://github.com/farizrahman4u/loopgpt ***
+- Deep Lake: Dataset format is optimized for rapid streaming and querying of data while training models at scale (URL: https://github.com/activeloopai/deeplake/tree/main)
+- Manifest: prompt Programmming: https://github.com/HazyResearch/manifest
+- Quintus: https://github.com/rjmacarthy/quintus
 
