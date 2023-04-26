@@ -25,5 +25,6 @@ Pytorch Libraries for daily use-cases
 - pytorch-OpCounter: Count the MACs / FLOPs of your PyTorch model. (URL: https://github.com/Lyken17/pytorch-OpCounter/)
 - vit-pytorch: Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch. (URL: https://github.com/lucidrains/vit-pytorch)
 - PyTorch-NLP: Basic Utilities for PyTorch Natural Language Processing (NLP) :: More utilites avaialibe than torchtext (URL: https://github.com/PetrochukM/PyTorch-NLP)
+- Antialiased-cnns: Improves the accuracy and stability of the CNN's: (URL: https://github.com/adobe/antialiased-cnns)
 
 
