@@ -24,6 +24,6 @@ New good pytorch libraries
 - microsoft/unilm: Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities (Docs: https://thegenerality.com/agi/ : URLhttps://github.com/microsoft/unilm) **
 - pytorch-OpCounter: Count the MACs / FLOPs of your PyTorch model. (URL: https://github.com/Lyken17/pytorch-OpCounter/)
 - vit-pytorch: Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch. (URL: https://github.com/lucidrains/vit-pytorch)
-- 
+- PyTorch-NLP: Basic Utilities for PyTorch Natural Language Processing (NLP) :: More utilites avaialibe than torchtext (URL: https://github.com/PetrochukM/PyTorch-NLP)
 
 
