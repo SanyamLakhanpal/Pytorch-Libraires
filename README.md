@@ -27,5 +27,7 @@ Pytorch Libraries for daily use-cases
 - PyTorch-NLP: Basic Utilities for PyTorch Natural Language Processing (NLP) :: More utilites avaialibe than torchtext (URL: https://github.com/PetrochukM/PyTorch-NLP)
 - Antialiased-cnns: Improves the accuracy and stability of the CNN's: (URL: https://github.com/adobe/antialiased-cnns)
 - SPlit Folders: Split folders with files (i.e. images) into training, validation and test (dataset) folders (URL: https://github.com/jfilter/split-folders)
+- torchinfo / torchsummary: https://github.com/tyleryep/torchinfo
+- 
 
 
