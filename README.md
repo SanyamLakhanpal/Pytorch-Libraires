@@ -28,6 +28,7 @@ Pytorch Libraries for daily use-cases
 - Antialiased-cnns: Improves the accuracy and stability of the CNN's: (URL: https://github.com/adobe/antialiased-cnns)
 - SPlit Folders: Split folders with files (i.e. images) into training, validation and test (dataset) folders (URL: https://github.com/jfilter/split-folders)
 - torchinfo / torchsummary: https://github.com/tyleryep/torchinfo
-- 
+- AutoX: (AutoML library): https://github.com/4paradigm/AutoX/tree/master
+
 
 
