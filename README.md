@@ -30,6 +30,7 @@ Pytorch Libraries for daily use-cases
 - SPlit Folders: Split folders with files (i.e. images) into training, validation and test (dataset) folders (URL: https://github.com/jfilter/split-folders)
 - torchinfo / torchsummary: https://github.com/tyleryep/torchinfo
 - AutoX: (AutoML library): https://github.com/4paradigm/AutoX/tree/master
+- Weight Watcher : (Library to monitor the weights of intermediate layers of DNN, debugging) [https://github.com/CalculatedContent/WeightWatcher]
 
 
 
