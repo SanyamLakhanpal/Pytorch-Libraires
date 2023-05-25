@@ -31,6 +31,7 @@ Pytorch Libraries for daily use-cases
 - torchinfo / torchsummary: https://github.com/tyleryep/torchinfo
 - AutoX: (AutoML library): https://github.com/4paradigm/AutoX/tree/master
 - Weight Watcher : (Library to monitor the weights of intermediate layers of DNN, debugging) [https://github.com/CalculatedContent/WeightWatcher]
-
+- Sophia: Effortless plugin and play Optimizer to cut model training costs by 50%. New optimizer that is 2x faster than Adam on LLMs.  (https://github.com/kyegomez/Sophia)
+- Deep Speed (microsoft): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. [https://github.com/microsoft/DeepSpeed] 
 
 
