@@ -34,5 +34,6 @@ Pytorch Libraries for daily use-cases
 - Sophia: Effortless plugin and play Optimizer to cut model training costs by 50%. New optimizer that is 2x faster than Adam on LLMs.  (https://github.com/kyegomez/Sophia)
 - Deep Speed (microsoft): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. [https://github.com/microsoft/DeepSpeed] 
 - ColossalAI: Colossal-AI provides a collection of parallel components for you. We aim to support you to write your distributed deep learning models just like how you write your model on your laptop. We provide user-friendly tools to kickstart distributed training and inference in a few lines. [https://github.com/hpcaitech/ColossalAI]
+- FairScale: FairScale is a PyTorch extension library for high performance and large scale training. FairScale makes available the latest distributed training techniques in the form of composable modules and easy to use APIs.: [https://fairscale.readthedocs.io/en/latest/]
 
 
