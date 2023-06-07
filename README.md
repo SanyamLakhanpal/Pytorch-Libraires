@@ -35,5 +35,9 @@ Pytorch Libraries for daily use-cases
 - Deep Speed (microsoft): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. [https://github.com/microsoft/DeepSpeed] 
 - ColossalAI: Colossal-AI provides a collection of parallel components for you. We aim to support you to write your distributed deep learning models just like how you write your model on your laptop. We provide user-friendly tools to kickstart distributed training and inference in a few lines. [https://github.com/hpcaitech/ColossalAI]
 - FairScale: FairScale is a PyTorch extension library for high performance and large scale training. FairScale makes available the latest distributed training techniques in the form of composable modules and easy to use APIs.: [https://fairscale.readthedocs.io/en/latest/]
+- Daft: Daft is a fast, Pythonic and scalable open-source dataframe library built for Python and Machine Learning workloads. [https://github.com/Eventual-Inc/Daft]
+- Texar Pytorch: The tool is designed for both researchers and practitioners for fast prototyping and experimentation. [https://github.com/asyml/texar-pytorch]
+- TabPFN: The TabPFN is a neural network that learned to do tabular data prediction. This is the original CUDA-supporting pytorch impelementation [https://github.com/automl/TabPFN]
+- AutoPytorch: Automatic architecture search and hyperparameter optimization for PyTorch [https://github.com/automl/Auto-PyTorch]
 
 
