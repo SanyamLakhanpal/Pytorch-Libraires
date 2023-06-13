@@ -39,5 +39,8 @@ Pytorch Libraries for daily use-cases
 - Texar Pytorch: The tool is designed for both researchers and practitioners for fast prototyping and experimentation. [https://github.com/asyml/texar-pytorch]
 - TabPFN: The TabPFN is a neural network that learned to do tabular data prediction. This is the original CUDA-supporting pytorch impelementation [https://github.com/automl/TabPFN]
 - AutoPytorch: Automatic architecture search and hyperparameter optimization for PyTorch [https://github.com/automl/Auto-PyTorch]
+- EasyNMT: Easy to use, state-of-the-art Neural Machine Translation for 100+ languages. Atleast better compared to py-google trasnlate. [https://github.com/UKPLab/EasyNMT]
+- Google_trans_new: A free and unlimited python API for google translate. [https://github.com/lushan88a/google_trans_new]
+- Google trans py: Google Translate Client with `deep-translator` [https://github.com/suqingdong/googletranslatepy]
 
 
