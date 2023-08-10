@@ -43,5 +43,7 @@ Pytorch Libraries for daily use-cases
 - Google_trans_new: A free and unlimited python API for google translate. [https://github.com/lushan88a/google_trans_new]
 - Google trans py: Google Translate Client with `deep-translator` [https://github.com/suqingdong/googletranslatepy]
 - iterative-stratification: scikit-learn cross validators for iterative stratification of multilabel data [https://github.com/trent-b/iterative-stratification]
+- Visuallayer ** (Simplify Your Visual Data Ops. Find and visualize issues with your computer vision datasets such as duplicates, anomalies, data leakage, mislabels and others.): [https://github.com/visual-layer/visuallayer]
+- Fastdup ** (fastdup is a powerful free tool designed to rapidly extract valuable insights from your image & video datasets. Assisting you to increase your dataset images & labels quality and reduce your data operations costs at an unparalleled scale.): [https://github.com/visual-layer/fastdup]
 
 
