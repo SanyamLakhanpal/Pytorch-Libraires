@@ -42,5 +42,6 @@ Pytorch Libraries for daily use-cases
 - EasyNMT: Easy to use, state-of-the-art Neural Machine Translation for 100+ languages. Atleast better compared to py-google trasnlate. [https://github.com/UKPLab/EasyNMT]
 - Google_trans_new: A free and unlimited python API for google translate. [https://github.com/lushan88a/google_trans_new]
 - Google trans py: Google Translate Client with `deep-translator` [https://github.com/suqingdong/googletranslatepy]
+- iterative-stratification: scikit-learn cross validators for iterative stratification of multilabel data [https://github.com/trent-b/iterative-stratification]
 
 
