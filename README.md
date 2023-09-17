@@ -46,5 +46,7 @@ Pytorch Libraries for daily use-cases
 - Visual layer ** (Simplify Your Visual Data Ops. Find and visualize issues with your computer vision datasets such as duplicates, anomalies, data leakage, mislabels and others.): [https://github.com/visual-layer/visuallayer]
 - Fastdup ** (fastdup is a powerful free tool designed to rapidly extract valuable insights from your image & video datasets. Assisting you to increase your dataset images & labels quality and reduce your data operations costs at an unparalleled scale.): [https://github.com/visual-layer/fastdup]
 - ComfyUI (Nice UI for running stable diffusion projects): [https://github.com/comfyanonymous/ComfyUI]
+- Simple Transformers (Easy Transformers for Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI): [https://github.com/ThilinaRajapakse/simpletransformers]
+- Easy BERT (Super Easy BERT and NLP Tasks): [https://github.com/utterworks/fast-bert/tree/main]
 
 
