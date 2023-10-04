@@ -50,5 +50,6 @@ Pytorch Libraries for daily use-cases
 - Easy BERT (Super Easy BERT and NLP Tasks): [https://github.com/utterworks/fast-bert/tree/main]
 - Clean Lab (The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.): [https://github.com/cleanlab/cleanlab]
 - Deep Checks (Tests for Continuous Validation of ML Models & Data): [https://github.com/deepchecks/deepchecks]
+- Pair Code Lit (NLP model/prediction debugging UI): [https://github.com/PAIR-code/lit]
 
 
