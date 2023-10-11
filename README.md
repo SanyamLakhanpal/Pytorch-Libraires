@@ -52,5 +52,7 @@ Pytorch Libraries for daily use-cases
 - Deep Checks (Tests for Continuous Validation of ML Models & Data): [https://github.com/deepchecks/deepchecks]
 - Pair Code Lit (NLP model/prediction debugging UI): [https://github.com/PAIR-code/lit]
 - Pytesseract (A python wrapper for Google Tesseract OCR system): [https://github.com/madmaze/pytesseract]
+- Multimodal Mixup Data Augmentation: [https://github.com/amazon-science/mix-generation]
+- 
 
 
