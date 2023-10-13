@@ -53,6 +53,6 @@ Pytorch Libraries for daily use-cases
 - Pair Code Lit (NLP model/prediction debugging UI): [https://github.com/PAIR-code/lit]
 - Pytesseract (A python wrapper for Google Tesseract OCR system): [https://github.com/madmaze/pytesseract]
 - Multimodal Mixup Data Augmentation: [https://github.com/amazon-science/mix-generation]
-- 
+- Interpreting Transformers: [https://github.com/cdpierse/transformers-interpret]
 
 
