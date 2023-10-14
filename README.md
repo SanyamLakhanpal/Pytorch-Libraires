@@ -54,5 +54,6 @@ Pytorch Libraries for daily use-cases
 - Pytesseract (A python wrapper for Google Tesseract OCR system): [https://github.com/madmaze/pytesseract]
 - Multimodal Mixup Data Augmentation: [https://github.com/amazon-science/mix-generation]
 - Interpreting Transformers: [https://github.com/cdpierse/transformers-interpret]
+- pygwalker (PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis): [https://github.com/Kanaries/pygwalker]
 
 
