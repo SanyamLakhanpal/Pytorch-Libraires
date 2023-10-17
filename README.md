@@ -55,5 +55,5 @@ Pytorch Libraries for daily use-cases
 - Multimodal Mixup Data Augmentation: [https://github.com/amazon-science/mix-generation]
 - Interpreting Transformers: [https://github.com/cdpierse/transformers-interpret]
 - pygwalker (PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis): [https://github.com/Kanaries/pygwalker]
-
+- Pair Code Lit (The Learning Interpretability Tool: Interactively analyze ML models to understand their behavior in an extensible and framework agnostic interface): [https://github.com/pair-code/lit]
 
